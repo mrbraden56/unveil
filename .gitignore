@@ -1,0 +1,5 @@
+database/
+annual_reports/
+*.pt
+*.bin
+*.json
