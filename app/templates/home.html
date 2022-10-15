@@ -49,10 +49,11 @@
                 <h1 class="heading-black text-capitalize">Quickly Understand the Risk Factors of Your Competitors</h1>
                 <p class="lead py-3">Unveil.ai uses deep learning to extract and summarize risk factors from 
                         annual reports so you can identify what the competition is struggling with.</p>
-                <button class="btn btn-primary d-inline-flex flex-row align-items-center">
-                    UPLOAD ANNUAL REPORT PDF HERE
-                    <em class="ml-2" data-feather="arrow-right"></em>
-                </button>
+                <form action="/" method="POST" enctype="multipart/form-data">
+                    <input onchange="form.submit()" type="file" id="upload" name="pdf" hidden/>
+                    <label for="upload" class="btn btn-primary d-inline-flex flex-row align-items-center">UPLOAD ANNUAL REPORT PDF HERE</label>
+                </form>
+    
             </div>
         </div>
     </div>
