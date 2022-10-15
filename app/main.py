@@ -1,20 +1,11 @@
-from configparser import ConfigParser
-import os
-import PyPDF2
+from flask import Flask, request, jsonify, render_template
+app = Flask(__name__)
 
-config_object = ConfigParser()
-config_object.read("../setup.cfg")
-paths = config_object["paths"]
-pdf_names=os.listdir(paths["data"])
-pdfFileObj = open(paths["data"]+pdf_names[0], 'rb')
-pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
-  
-# printing number of pages in pdf file
-print(pdfReader.numPages)
-pageObj = pdfReader.getPage(0)
-  
-# extracting text from page
-print(type(pageObj.extractText()))
-  
-# closing the pdf file object
-pdfFileObj.close()
+@app.route('/')
+def home_page():
+    return render_template('home.html')
+
+@app.route('/predict', methods=['POST'])
+def predict():
+    return jsonify({'result':1})
+
