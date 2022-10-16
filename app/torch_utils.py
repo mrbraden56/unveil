@@ -64,6 +64,7 @@ class SummarizeParagraph:
                     summary=self.summarize(paragraph)
                     risk_dic["Original"].append(paragraph)
                     risk_dic["Summarized"].append(summary)
+                    print(paragraph)
                 else:
                     continue
             print(f"Page {i} of {number_of_pages}")

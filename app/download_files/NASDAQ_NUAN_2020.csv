@@ -1,0 +1,889 @@
+,Original,Summarized
+0,"NUANCE COMMUNICATIONS, INC.
+TABLE OF CONTENTS
+  Page
+PART I
+Item 1. Business 1
+Item 1A. Risk Factors 7
+Item 1B. Unresolved Staff Comments 17
+Item 2. Properties 17
+Item 3. Legal Proceedings 17
+Item 4. Mine Safety Disclosures 17",Indicate by check mark whether the registrant by furnishing the information contained in this form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934.
+1,"PART II
+Item 5. Market for the Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 18
+Item 6. Selected Consolidated Financial Data 20
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 20
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk 42
+Item 8. Financial Statements and Supplementary Data 44
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 93
+Item 9A. Controls and Procedures 93
+Item 9B. Other Information 94","The complete text of the registrant’s annual report on Form 20-F will be filed under the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended, and the registrant’s quarterly report on Form 10-Q will be filed under the Securities Exchange Act of 1934, as amended"
+2,"PART III
+Item 10. Directors, Executive Officers and Corporate Governance 94
+Item 11. Executive Compensation 94
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 94
+Item 13. Certain Relationships and Related Transactions, and Director Independence 95
+Item 14. Principal Accountant Fees and Services 95","The complete text of the registrant's annual report on Form 10-K for the year ended December 31, 2015 is attached hereto as Exhibit 99."
+3,"PART IV
+Item 15. Exhibits and Financial Statement Schedules 95","The registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorised."
+4,"Table of Contents
+PART I
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 that
+involve risks, uncertainties and assumptions that, if they never materialize or if they prove incorrect, could cause our consolidated results to differ
+materially from those expressed or implied by such forward-looking statements. All statements other than statements of historical fact are statements that
+could be deemed forward-looking, including statements pertaining to: our future revenue, cost of revenue, research and development expense, selling,
+general and administrative expenses, amortization of intangible assets and gross margin, earnings, cash flows and liquidity; our strategy relating to our
+segments; the potential of future product releases; our product development plans and investments in research and development; future acquisitions and
+anticipated benefits from acquisitions; international operations and localized versions of our products; our contractual commitments; our fiscal year 2021
+revenue and expense expectations and legal proceedings and litigation matters. You can identify these and other forward-looking statements by the use of
+words such as “may,” “will,” “should,” “expects,” “plans,” “anticipates,” “believes,” “estimates,” “predicts,” “intends,” “potential,” “continue” or the
+negative of such terms, or other comparable terminology. Forward-looking statements also include the assumptions underlying or relating to any of the
+foregoing statements. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of various factors,
+including those set forth in Item 1A of this Annual Report under the heading “Risk Factors.” All forward-looking statements included in this document are
+based on information available to us on the date hereof. The forward-looking statements do not include the potential impact of any mergers, acquisitions,
+divestitures, securities offerings or business combinations that may be announced or closed after the date hereof. We will not undertake and specifically
+decline any obligation to update any forward-looking statements, except to the extent required by law.
+Item 1. Business
+Overview
+Nuance Communications, Inc. (""We"", ""Nuance"", or the ""Company"") is a technology pioneer and market leader in conversational artificial intelligence
+(""AI"") and ambient clinical intelligence. We deliver intuitive solutions that understand, analyze, and respond to people - amplifying their ability to help
+others with increased productivity and security. We work with thousands of organizations globally across healthcare, financial services,
+telecommunications, government, and retail - to create stronger relationships and better experiences for their customers and workforce. We offer our
+customers a wide range of products and services, including clinical documentation, solutions for clinicians, radiologists and care teams, as well as
+intelligent customer engagement and security biometric solutions for leading brands. In addition, our solutions increasingly utilize our innovations in AI,
+including cognitive sciences and machine learning to create smarter, more natural experiences with technology. Using advanced analytics and algorithms,
+our technologies create personalized experiences and transform the way people interact with information and the technology around them. We market and
+sell our solutions and technologies around the world directly through a dedicated sales force and a global network of resellers, including system integrators,
+independent software vendors, value-added resellers, distributors, hardware vendors, telecommunications carriers and e-commerce websites.
+We are a global organization steeped in research and development (""R&D""). We have approximately 1,600 language scientists, developers, and engineers
+dedicated to continually refining our technologies and advancing our portfolio to better meet our customers’ diverse and changing needs. As of
+September 30, 2020, we had operations and sales force in 28 countries. Our corporate headquarters is in Burlington, Massachusetts, and our international
+headquarters is in Dublin, Ireland. In fiscal year 2020, our revenue was approximately $1.5 billion.
+In connection with our ongoing comprehensive portfolio and business review, during the first quarter of 2021, we announced our strategic plan to sell our
+medical transcription and EHR go-live businesses to Assured Healthcare Partners and Aeries Technology Group. These businesses provide critical support
+to healthcare organizations, and upon the closing of the sale, Nuance will be both a minority stakeholder and business partner committed to the success of
+the new business, named DeliverHealth Solutions.
+As a result, we expect the results of medical transcription and EHR go-live businesses to be included within discontinued operations on the consolidated
+statements of operations, and the related assets and liabilities to be classified as assets and liabilities held for sale on the consolidated balance sheets
+effective the first quarter of fiscal year 2021.
+Our Strategy
+With the sale of our Imaging segment, the spin-off of our Automotive segment, the exit of our Mobile Operator Services business and the wind-down of
+Devices, as well as the anticipated sale of our medical transcription and EHR go-live businesses, we are
+1",Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b-2 of the Securities Exchange Act of 1934.
+5,"Table of Contents
+•Clinical Documentation Improvement and Coding: Our comprehensive portfolio of cloud-based technologies is designed to help increase the
+productivity and effectiveness of CDI teams. Our clinically focused program and services deliver documentation guidance, AI-powered encounter
+prioritization, workflow management, denials support and analytics to drive better documentation across the care continuum. Designed with scale
+and reliability in mind, these solutions require lower installation, deployment and maintenance costs and are hosted on Microsoft Azure, a
+HITRUST CSF-certified infrastructure to support privacy, security and compliance. We provide real-time insights that promote a performance-
+driven program, allow peer comparisons and identify opportunities for improvement. Our Coding solutions offer cloud-based, enterprise-wide
+products and services that are designed to improve coder productivity and maintain the highest levels of accuracy and compliance. These solutions
+effectively manage and monitor the types of compliance coding challenges that can put a health system at risk for delayed and reduced
+reimbursement. We help manage the workflow by bringing together the tools needed to provide better visibility into key coding performance
+indicators. Coder productivity can be enhanced by enabling a more complete and accurate review of both inpatient and outpatient encounters that
+are associated with facility and professional service fees.
+•Transcriptions Solutions: These solutions offer cloud-based transcription capabilities for clinical documentation that use background speech
+recognition to increase Medical Language Specialists’ productivity and reduce costs. Helping organizations simplify the documentation process by
+offering users an automated and flexible workflow with options designed to meet a facility’s specific needs, our solutions and services offer fast,
+accurate, and usable documentation with more seamless and fully automated processes that can identify discrete information and securely upload
+data directly into the EHR. Clinicians using EHRs can accurately document entire patient encounters using a mobile device or their standard
+dictation methods.
+The channels for distribution in the Healthcare segment utilize our direct sales force to address the market and our professional services organization to
+support the implementation requirements of the healthcare industry. Direct distribution is supplemented by distributors, resellers, and partnerships with a
+variety of healthcare IT providers.
+Areas of expansion and focus for our Healthcare segment include innovation in AI and development of deeply verticalized and specialized intelligence to
+integrate with and further enhance our existing products; expansion of Nuance DAX which takes advantage of our cloud ‑ based speech recognition
+technology and benefits from increasing levels of workflow, task, and knowledge automation; investment in our cloud-based offerings, operations, and
+network security; entering new and adjacent markets such as ambulatory care; and expanding our international capabilities.
+Enterprise
+Our Enterprise segment is a leading provider of AI-powered intelligent customer engagement solutions and services, which enable enterprises and contact
+centers to enhance and automate customer service and sales engagement.
+Our market-leading Intelligent Engagement platform powered by conversational AI has been recognized and awarded by independent industry research
+firms like Forrester, Gartner and Opus. We are also differentiated by our ability to enable enterprises to implement voice and text-based virtual assistants
+and to provide automated service and sales engagement across voice and digital channels, as well as the ability of our solutions to seamlessly transition to
+agent-assisted engagement to complete a customer service request. Our intelligent self-service solutions are highly secure, predictive, and accurate,
+resulting in increased customer acquisition and satisfaction while simultaneously reducing the costs associated with delivering customer service for the
+enterprise.
+Our solutions and services portfolio now spans voice, behavioral and conversational biometrics, digital virtual assistant capabilities, across voice, mobile,
+web and messaging channels, with inbound and outbound customer service and engagement in over 85 languages for voice, text, dialog and natural
+language understanding (""NLU""). Our Enterprise segment utilizes a hybrid go-to-market model, selling both direct and through reseller partners.
+Enterprise segment revenues were $530.0 million, $510.8 million, and $483.2 million in fiscal years 2020, 2019 and 2018, respectively. Enterprise segment
+revenues represented 35.8%, 33.5% and 30.6% of total segment revenues in fiscal years 2020, 2019 and 2018, respectively. For each of fiscal years 2020,
+2019, and 2018, no customer accounted for more than 10% of Enterprise revenue.
+Our principal solutions for the Enterprise segment include the following:
+•Intelligent Engagement Solutions: Our open, modular cloud platform provides enterprises with the ability to implement virtual- and live-
+engagement across nearly all digital voice and text channels. The platform supports virtual assistant, live engagement and proactive notification
+services, using our conversational AI, engagement AI and security AI capabilities.
+4","Nuance Communications, Inc."
+6,"Table of Contents
+Our Intelligent Engagement cloud is sold both direct and through partners and are largely multi-year agreements with volume-based transactional
+pricing and associated professional services.
+•Conversational AI: In 2020 we launched Nuance Mix™, an open enterprise-grade, SaaS tooling suite for creating advanced conversational
+experiences that power virtual assistants and IVR systems, using our industry-leading and cloud-agnostic conversational AI. As global organizations
+increasingly look to integrate Conversational AI into their digital and voice customer engagements, the ability to build a conversational experience
+once and deploy it across channels and modalities has become critical. Nuance Mix allows these organizations to build, maintain and deliver the
+complex enterprise-grade conversational experiences that help brands acquire customers and get vital customer queries and transactions resolved.
+Our conversational AI solutions are integrated with IVR systems provided to the customer by us or by a wide range of third-party IVR and contact
+center vendors, who often resell our IVR Voice Solutions. Our solutions in this category include automated speech recognition (""ASR""), TTS, NLU
+and dialog engines. We also offer a cloud hosted IVR and voice automation platform which is largely sold direct through multi-year agreements with
+volume-based transactional pricing and associated professional services.
+•Engagement AI: Our digital solutions are a mix of intelligent virtual assistants and human-assisted customer engagement. This enables companies
+to target the right visitor with the right message at the right time, delivering a customer-centric experience across all channels. Nuance enables
+businesses to design a seamless experience once and deploy it on any channel-browsers, inside an app, Apple Business Chat, via text messaging,
+social media, in third-party messaging apps, such as Facebook Messenger, Google’s Business Messages and WhatsApp, or for smart home devices-
+while adjusting the experience to the individual channel. Our Engagement AI solutions also enable contact center agents to be more productive by
+giving them easier access to information with relevant, real-time insights, visibility into active conversations, and proactive recommendations to
+improve the customer and agent experience.
+•Security AI: These solutions enable organizations to automate the identification and verification of their customers while preventing fraud in digital
+and voice channels. In 2020, we launched Nuance Gatekeeper, a cloud-native biometric security platform that combines industry-leading voice,
+behavioral conversational biometrics with intelligent detectors and an underlying risk engine to authenticate customers, identify fraudsters, and
+detect cases of potential fraud, seamlessly and in seconds. We license this solution via perpetual maintenance and support (""M&S""), on-premise
+transactional and cloud transactional models.
+Areas of focus and expansion for our Enterprise segment include increasing the penetration of our full portfolio into our large existing customer base;
+bringing our Intelligent Engagement cloud to new customers, the midmarket and new international markets, especially Western Europe, Japan and
+Australia; expansion of our security and biometrics cloud solution; and continued investment in our AI-powered solutions to ensure we retain leadership
+throughout our solutions.
+Other
+Our Other segment currently consists primarily of voicemail transcription services following the sale of our Mobile Operator Services business and the
+wind-down of our Devices business in 2019.
+Other segment revenues were $33.9 million, $61.5 million, and $109.1 million in fiscal years 2020, 2019 and 2018, respectively. Other segment revenues
+represented 2.3%, 4.0% and 6.9% of total segment revenues in fiscal years 2020, 2019 and 2018, respectively.
+Intellectual Property
+Over our history, we have developed and acquired extensive technology assets, intellectual property, and industry expertise in ASR and NLU technologies
+that provide us with a competitive advantage in our markets. Our technologies are based on complex algorithms that require extensive amounts of acoustic
+and language models, and recognition and understanding techniques. A significant investment in capital and time would be necessary to replicate our
+current capabilities.
+We continue to invest in technologies to maintain our market-leading position and to develop new applications. We rely on a portfolio of patents,
+copyrights, trademarks, services marks, trade secrets, confidentiality provisions and licensing arrangements to establish and protect our intellectual property
+and proprietary rights. As of September 30, 2020, we held approximately 2,350 patents and 300 patent applications.
+5",Nuance is a leading provider of artificial intelligence (AI) and digital engagement solutions.
+7,"Table of Contents
+Employees
+As of September 30, 2020, we had approximately 7,100 full-time employees, including approximately 900 in sales and marketing, approximately 1,700 in
+hosting and maintenance and support services, approximately 600 in professional services, approximately 1,600 in R&D, approximately 700 in general and
+administrative, and approximately 1,600 who provide transcription and editing services. Approximately 55% of our employees are based outside of the
+U.S., approximately 36% of whom provide transcription and editing services and are based in India.
+None of our employees in the U.S. are represented by a labor union. Employees of certain of our foreign subsidiaries are represented by labor unions or
+workers’ councils. We believe that our relationships with our employees are satisfactory.
+Information About Geographic Areas
+We have offices in a number of international locations including Australia, Austria, Belgium, Canada, Germany, India, Ireland, Italy, Japan, and the U.K.
+The responsibilities of our international operations include research and development, healthcare transcription and editing, customer support, sales and
+marketing and general and administrative. Additionally, we maintain smaller sales, services and support offices throughout the world to support our
+international customers and to expand international revenue opportunities.
+Geographic revenue classification is based on the geographic areas in which our customers are located. For fiscal years 2020, 2019 and 2018, 80%, 81%
+and 80% of revenue from continuing operations was generated in the U.S. and 20%, 19% and 20% was generated by our international customers,
+respectively.
+Corporate Information and Website
+We were incorporated under the laws of the State of Delaware in 1992. Our website is located at www.nuance.com and we trade under the ticker symbol
+NUAN. We are not including the information contained in our website as part of, or incorporating it by reference into, this annual report on Form 10-K. We
+make available free of charge through our website our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and
+amendments to these reports, as soon as reasonably practicable after we electronically file these materials with, or otherwise furnish them to, the Securities
+and Exchange Commission (""SEC"").
+Item 1A. Risk Factors
+You should carefully consider the risks and uncertainties described below when evaluating the company and when deciding whether to invest in the
+company. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties not presently known to us or that we
+do not currently believe are important to an investor may also harm our business operations. If any of the events, contingencies, circumstances or
+conditions described below actually occurs, our business, financial condition or our results of operations could be seriously harmed. If that happens, the
+trading price of our common stock could decline.
+Risks Related to Our Business
+Our liquidity and operations have been adversely impacted, and our business, financial condition, results of operations and cash flows may continue to
+be adversely impacted, by the novel coronavirus (COVID-19).
+On March 11, 2020, the World Health Organization declared the outbreak of COVID-19 to be a pandemic. The global spread of COVID-19 has created
+significant market volatility, uncertainty and economic disruption. The COVID-19 pandemic has adversely affected our results of operations and liquidity
+as of September 30, 2020, and may continue to adversely impact our business, results of operations, cash flows and financial condition. While we have not
+experienced significant disruptions to our ability to conduct business thus far as a result of the pandemic, we are currently conducting business with
+substantial modifications to employee travel, employee work locations, virtualization or cancellation of customer and employee events, and remote sales,
+implementation, and support activities, among other modifications.
+The extent to which the coronavirus pandemic will impact our business, operations, and financial results in the future will depend on numerous evolving
+factors that we may not be able to accurately predict, including:
+•the duration and scope of the pandemic;
+•governmental, business and individual actions taken in response to the pandemic and the impact of those actions on global economic activity;
+7",Management's Discussion and Analysis of Financial Condition and Results of Operations
+8,"Table of Contents
+•the actions taken in response to economic disruption;
+•the impact of business disruptions on our customers and partners and the resulting impact on their demand for our products and services;
+•our customers’ and partners’ ability to pay for our products and services; and
+•our ability to provide our products and services, including as a result of our employees working remotely and/or closures of offices and facilities.
+We are closely monitoring the impact of the COVID-19 pandemic and continually assessing its potential effects on our business. Many of our customers
+are hospitals and other healthcare providers that are facing capital shortages and other changes to their businesses as they focus on fighting the pandemic.
+As a result, in particular with respect to our healthcare customers, our net new sales may continue to be lower than expected; our ability to recognize
+revenue may continue to be negatively impacted due to implementation delays, decreased utilization of certain products such as our HIM, PowerScribe and
+DAX solutions, decrease in volumes where we have transaction-based revenue, or other factors; our collections may continue to be delayed, which will
+negatively affect our cash flows; some customers may go out of business, and we will be unsecured creditors and may not be able to collect what we are
+owed; our ability to provide 24x7 worldwide support to our customers may be affected; and our employees’ productivity may be negatively impacted as a
+result of almost all of our workforce working from home. The pandemic and accompanying market volatility, uncertainty and economic disruption may
+also have the effect of heightening many of the other risks described in the “Risk Factors” set forth in this Annual Report on Form 10-K. The ultimate
+impact of the COVID-19 pandemic and the effects of the operational changes we have made in response cannot be accurately predicted at this time.
+The markets in which we operate are highly competitive and rapidly changing and we may be unable to compete successfully.
+There are a number of companies that develop or may develop products that compete in our targeted markets. The markets for our products and services are
+characterized by intense competition, evolving industry and regulatory standards, emerging business and distribution models, disruptive software and
+hardware technology developments, short product and service life cycles, price sensitivity on the part of customers, and frequent new product introductions,
+including alternatives for certain of our products that offer limited functionality at significantly lower costs or free of charge. Current and potential
+competitors have established, or may establish, cooperative relationships among themselves or with third parties to increase the ability of their technologies
+to address the needs of our prospective customers. Furthermore, there has been a trend toward industry consolidation in our markets for several years. We
+expect this trend to continue as companies attempt to strengthen or hold their market positions.
+The competition in our targeted markets could adversely affect our operating results by reducing the volume of the products and solutions we license or sell
+or the prices we can charge. Some of our current or potential competitors have significantly greater financial, technical and marketing resources than we do.
+These competitors may be able to respond more rapidly than we can to new or emerging technologies or changes in customer requirements. They may also
+devote greater resources to the development, promotion and sale of their products than we do, and in certain cases may be able to include or combine their
+competitive products or technologies with other of their products or technologies in a manner whereby the competitive functionality is available at lower
+cost or free of charge within the larger offering. To the extent they do so, market acceptance and penetration of our products, and therefore our revenue and
+bookings, may be adversely affected. Our success depends substantially upon our ability to enhance our products and technologies and to develop and
+introduce, on a timely and cost-effective basis, new products and features that meet changing customer requirements and incorporate technological
+enhancements. If we are unable to develop or acquire new products and enhance functionalities or technologies to adapt to these changes our business will
+suffer.
+Our operating results may fluctuate significantly from period to period, and this may cause our stock price to decline.
+Our revenue, bookings and operating results have fluctuated materially in the past and we expect such fluctuations to continue in the future. These
+fluctuations may cause our results of operations not to meet the expectations of securities analysts or investors which would likely cause the price of our
+stock to decline. Factors that may contribute to fluctuations in operating results include:
+•volume, timing and fulfillment of customer orders and receipt of royalty reports;
+•fluctuating sales by our channel partners to their customers;
+•customers delaying their purchasing decisions in anticipation of new versions of our products;
+•contractual counterparties failing to meet their contractual commitments to us;
+•introduction of new products by us or our competitors;
+•cybersecurity or data breaches;
+•seasonality in purchasing patterns of our customers;
+•reduction in the prices of our products in response to competition, market conditions or contractual obligations;
+8",This Annual Report on Form 10-K contains forward-looking statements that are subject to risks and uncertainties.
+9,"Table of Contents
+•returns and allowance charges in excess of accrued amounts;
+•timing of significant marketing and sales promotions;
+•impairment of goodwill or intangible assets;
+•the pace of the transition to an on-demand and transactional revenue model;
+•delayed realization of synergies resulting from our acquisitions;
+•accounts receivable that are not collectible and write-offs of excess or obsolete inventory;
+•increased expenditures incurred pursuing new product or market opportunities;
+•higher than anticipated costs related to fixed-price contracts with our customers;
+•change in costs due to regulatory or trade restrictions;
+•expenses incurred in litigation matters, whether initiated by us or brought by third parties against us, and settlements or judgments we are required to
+pay in connection with disputes; and
+•general economic trends as they affect the customer bases into which we sell.
+Due to the foregoing factors, among others, our revenue, bookings and operating results are difficult to forecast. Our expense levels are based in significant
+part on our expectations of future revenue, and we may not be able to reduce our expenses quickly to respond to near-term shortfalls in projected revenue.
+Therefore, our failure to meet revenue expectations would seriously harm our operating results, financial condition and cash flows.
+A significant portion of our revenue and bookings are derived, and a significant portion of our research and development activities are based, outside
+the United States. Our results could be harmed by economic, political, regulatory, foreign currency fluctuation and other risks associated with these
+international regions.
+Because we operate worldwide, our business is subject to risks associated with doing business internationally. We generate most of our international
+revenue and bookings in Canada and Europe, and we anticipate that revenue and bookings from international operations could increase in the future. In
+addition, some of our products are developed outside the United States and we have a large number of employees in India who provide transcription and
+development services, and we also have a large number of employees in Canada, Germany and the United Kingdom who provide professional services. We
+conduct a significant portion of the development of our voice recognition and natural language understanding solutions in Canada and Germany. We also
+have significant research and development resources in Austria, Belgium, Italy, and the United Kingdom. We are exposed to fluctuating exchange rates of
+foreign currencies including the Euro, British pound, Australian dollar, Canadian dollar, Japanese yen, and Indian rupee. Accordingly, our future results
+could be harmed by a variety of factors associated with international sales and operations, including:
+•adverse political and economic conditions, or changes to such conditions, in a specific region or country;
+•trade protection measures, including tariffs and import/export controls, imposed by the United States and/or by other countries or regional authorities
+such as Canada or the European Union;
+•the impact on local and global economies of the United Kingdom leaving the European Union;
+•changes in foreign currency exchange rates or the lack of ability to hedge certain foreign currencies;
+•compliance with laws and regulations in many countries and any subsequent changes in such laws and regulations;
+•geopolitical turmoil, including terrorism and war;
+•changing data privacy regulations and customer requirements to locate data centers in certain jurisdictions;
+•evolving restrictions on cross-border investment, including recent enhancements to the oversight by the Committee on Foreign Investment in the
+United States pursuant to the Foreign Investment Risk Preview Modernization Act;
+•changes in applicable tax laws;
+•difficulties in staffing and managing operations in multiple locations in many countries;
+•longer payment cycles of foreign customers and timing of collections in foreign jurisdictions; and
+•less effective protection of intellectual property outside the United States.
+If we are unable to attract and retain key personnel, our business could be harmed.
+To execute our business strategy, we must attract and retain highly qualified personnel. If any of our key employees were to leave, we could face substantial
+difficulty in hiring qualified successors and could experience a loss in productivity while any successor obtains the necessary training and experience.
+Although we have arrangements with some of our executive officers designed to promote retention, our employment relationships are generally at-will and
+we have had key employees leave in the past. We cannot assure you that one or more key employees will not leave in the future. In particular, we compete
+with many other companies for
+9",A description of some of the factors that could cause our results to differ from our expectations is set out in our filings with the US Securities and Exchange Commission.
+10,"Table of Contents
+California consumers with certain rights as data subjects. Several other U.S. states have proposed data privacy laws that impose similar but non-identical
+obligations. In addition, some states have passed laws imposing increased data security and breach notification obligations on companies operating in the
+U.S. In the EU, the European General Data Protection Regulation (the “GDPR”), which went into effect in May 2018, imposes privacy and data security
+compliance obligations and significant penalties for noncompliance. The GDPR presents numerous privacy-related changes for companies operating in the
+EU, including rights guaranteed to data subjects, requirements for data portability for EU consumers, data breach notification requirements and significant
+fines for noncompliance. In GDPR enforcement matters, companies have faced fines for violations of certain provisions. Fines can reach as high as 4% of a
+company’s annual total revenue, potentially including the revenue of a company’s international affiliates. On July 16, 2020, the Court of Justice of the
+European Union issued a decision that invalidates the EU-U.S. Privacy Shield framework, a mechanism that companies had previously relied on to transfer
+information between the EU and U.S., on the basis that such transfer mechanism does not comply with the level of protection required under the GDPR.
+There is also an increase in regulation of biometric data globally, which may include voiceprints. In addition, we are subject to laws relating specifically to
+personal health information, including the Health Insurance Portability and Accountability Act of 1996 (""HIPAA"") and the Health Information Technology
+for Economic and Clinical Health (""HITECH"") Act.
+Changes in these data privacy and protection laws and regulations and inconsistencies in the standards that apply to our business in different jurisdictions
+may impose significant compliance costs, reduce the efficiency of our operations, expose us to enforcement risks, and materially adversely affect our
+ability to market and sell our products and solutions.  Any alleged or actual failure by us, our customers, suppliers or other parties with whom we do
+business to comply with federal, state or international privacy-related or data protection laws and regulations could cause our customers to lose confidence
+in our solutions; harm our reputation; expose us to litigation, regulatory investigations and to resulting liabilities including reimbursement of customer
+costs, damages penalties or fines imposed by regulatory agencies, and require us to incur significant expenses for remediation.
+We are also subject to a variety of anticorruption laws in respect of our international operations, including the U.S. Foreign Corrupt Practices Act, the U.K.
+Bribery Act and the Canadian Corruption of Foreign Public Officials Act, and regulations issued by the U.S. Customs and Border Protection, the U.S.
+Bureau of Industry and Security, the U.S Treasury Department’s Office of Foreign Assets Control, and various other foreign governmental agencies.  We
+cannot predict the nature, scope or effect of future regulatory requirements to which our international operations might be subject or the manner in which
+existing laws might be administered or interpreted. Actual or alleged violations of these laws and regulations could lead to enforcement actions and
+financial penalties that could result in substantial costs.
+Many of our customers are subject to various federal and state laws concerning their submission of claims for reimbursement by Medicare, Medicaid and
+other federal and state government-sponsored health care programs. Such laws include the federal False Claims Act (the “False Claims Act”), the federal
+anti-kickback statute, state false claims acts and anti-kickback statutes in most states, the federal “Stark Law” and related state laws. In particular, the False
+Claims Act prohibits knowingly submitting, conspiring to submit, or causing to be submitted, false claims, records, or statements to the federal
+government, or knowingly and improperly failing to return overpayments, in connection with reimbursement by federal government programs and can be
+used as a vehicle to enforce each of these other laws. Claims under federal and state false claims acts can be brought by the government or by private
+individuals on behalf of the government through a qui tam or “whistleblower” suit. If there is an adverse decision against us or our customers under these
+laws relating to use of our products or solutions, we may be required to pay damages, significant fines and/or other monetary penalties, and our ability to
+market and sell such products or solutions to customers may be materially adversely impacted.
+Interruptions or delays in our services, including from data center hosting facilities, could impair the delivery of our services and harm our business.
+Because our services are complex and incorporate a variety of third-party hardware and software, our services may have errors or defects that could result
+in unanticipated downtime for our customers and harm to our reputation and our business. We have from time to time, found defects in our services, and
+new errors in our services may be detected in the future. In addition, we currently serve our customers from data center hosting facilities we directly
+manage and from third party public cloud facilities. Any damage to, or failure of, the systems that serve our customers in whole or in part could result in
+interruptions in our service. Interruptions in our service may reduce our revenue, cause us to issue credits or pay service-level agreement penalties, cause
+customers to terminate their on-demand services, and adversely affect our renewal rates and our ability to attract new customers.
+We may be unable to fully capture the expected value from strategic transactions.
+As part of our business strategy, we have in the past acquired and divested, and expect to continue to acquire and may divest, other businesses and
+technologies. We also expect to from time to time pursue other strategic transactions including divestitures, joint ventures, minority stakes and strategic
+alliances. Our acquisitions and divestitures have required substantial integration and
+11","We are subject to a variety of federal, state and international privacy-related and data protection laws and regulations."
+11,"Table of Contents
+management efforts, and we expect future acquisitions, divestitures and other strategic transactions to require similar efforts. Successfully realizing the
+benefits of acquisitions, divestitures and other strategic transactions involves a number of risks, including:
+•difficulty in transitioning and integrating the operations and personnel of the acquired businesses;
+•difficulty in separating the operations, personnel and systems of divested businesses:
+•potential negative impact on our profitability as a result of losses that may result from a divestiture, including the loss of sales and operating income
+or decrease in cash flows;
+•retained exposure on financial guarantee leases, real estate and other contractual, employment, pension and severance obligations of divested
+business, and potential liabilities that may arise under law as a result of the disposition or the subsequent failure of an acquirer;
+•potential disruption of our ongoing business and distraction of management;
+•difficulty in incorporating acquired products and technologies into our products and technologies;
+•potential difficulties in completing projects associated with in-process research and development;
+•unanticipated expenses and delays in completing acquired development projects and technology integration and upgrades;
+•challenges associated with managing additional, geographically remote businesses;
+•impairment of relationships with partners and customers;
+•assumption of unknown material liabilities of acquired companies;
+•the accuracy of revenue and bookings projections of acquired companies;
+•customers delaying purchases of our products pending resolution of product integration between our existing and our newly acquired products;
+•entering markets or types of businesses in which we have limited experience; and
+•potential loss of key employees of the acquired business or loss of key employees of a divested business.
+As a result of these and other risks, we may not realize the anticipated benefits from our acquisitions, divestitures, and other strategic transactions. Any
+failure to achieve these benefits or failure to successfully integrate acquired businesses and technologies or disaggregate divested businesses and
+technologies could seriously harm our business.
+We may be exposed to claims and liabilities as a result of the spin-off of our Automotive business segment.
+We entered into a separation and distribution agreement and various other agreements with Cerence to govern the spin-off and the relationship between the
+two companies going forward. These agreements provide for specific indemnity and liability obligations and could lead to disputes between us and
+Cerence. For example, in the Tax Matters Agreement, dated September 30, 2019, between Nuance and Cerence, Cerence agreed to indemnify Nuance for
+resulting taxes and related expenses if, as a result of any of Cerence’s breach of certain of its representations or covenants, the spin-off and certain related
+reorganization transactions are determined not to qualify for non-recognition of gain or loss under Section 355 and related provisions of the Internal
+Revenue Code of 1986, as amended. The indemnity rights we have against Cerence under the agreements may not be sufficient to protect us, for example if
+our losses exceed our indemnity rights or if Cerence did not have the financial resources to meet its indemnity obligations. In addition, our indemnity
+obligations to Cerence may be significant, and these risks could negatively affect our results of operations and financial condition.
+Charges to earnings as a result of our acquisitions may adversely affect our operating results in the foreseeable future, which could have a material
+and adverse effect on the market value of our common stock.
+Under accounting principles generally accepted in the United States, we record the market value of our common stock and other forms of consideration
+issued in connection with an acquisition as the cost of acquiring the company or business. We allocate that cost to the individual assets acquired and
+liabilities assumed, including various identifiable intangible assets such as acquired technology, acquired trade names and acquired customer relationships,
+based on their respective fair values. We base our estimates of fair value upon assumptions believed to be reasonable, but which are inherently uncertain.
+After we complete an acquisition, the following factors could result in material charges and may adversely affect our operating results and cash flows:
+•costs incurred to integrate the operations of businesses we acquire, such as transitional employee expenses and employee retention, redeployment or
+relocation expenses;
+•impairment of goodwill or intangible assets;
+•amortization of intangible assets acquired;
+•a reduction in the useful lives of intangible assets acquired;
+12","Nuance Communications, Inc."
+12,"Table of Contents
+Risks Related to Our Intellectual Property and Technology
+Third parties have claimed and may claim in the future that we are infringing their intellectual property, and we could be exposed to significant
+litigation or licensing expenses or be prevented from selling our products if such claims are successful.
+From time to time, we are subject to claims and legal actions alleging that we or our customers may be infringing or contributing to the infringement of the
+intellectual property rights of others. We may be unaware of intellectual property rights of others that may cover some of our technologies and products. If
+it appears necessary or desirable, we may seek licenses for these intellectual property rights. However, we may not be able to obtain licenses from some or
+all claimants, the terms of any offered licenses may not be acceptable to us, and we may not be able to resolve disputes without litigation. Any litigation
+regarding intellectual property could be costly and time-consuming and could divert the attention of our management and key personnel from our business
+operations. Intellectual property disputes could subject us to significant liabilities, require us to enter into royalty and licensing arrangements on
+unfavorable terms, prevent us from manufacturing or licensing certain of our products, cause severe disruptions to our operations or the markets in which
+we compete, or require us to satisfy indemnification commitments to our customers. Any of these could seriously harm our business.
+Unauthorized use of our proprietary technology and intellectual property could adversely affect our business and results of operations.
+Our success and competitive position depend in large part on our ability to obtain and maintain intellectual property rights protecting our products and
+services. We rely on a combination of patents, copyrights, trademarks, service marks, trade secrets, confidentiality provisions and licensing arrangements to
+establish and protect our intellectual property and proprietary rights. Unauthorized parties may attempt to copy or discover aspects of our products or to
+obtain, license, sell or otherwise use information that we regard as proprietary. Policing unauthorized use of our products is difficult and we may not be
+able to protect our technology from unauthorized use. Additionally, our competitors may independently develop technologies that are substantially the
+same or superior to our technologies and that do not infringe our rights. In these cases, we would be unable to prevent our competitors from selling or
+licensing these similar or superior technologies. In addition, the laws of some foreign countries do not protect our proprietary rights to the same extent as
+the laws of the United States. Although the source code for our proprietary software is protected both as a trade secret and as a copyrighted work, litigation
+may be necessary to enforce our intellectual property rights, to protect our trade secrets, to determine the validity and scope of the proprietary rights of
+others, or to defend against claims of infringement or invalidity. Litigation, regardless of the outcome, can be very expensive and can divert management
+efforts.
+Our software products may have bugs, which could result in delayed or lost revenue and bookings, expensive correction, liability to our customers and
+claims against us.
+Complex software products such as ours may contain errors, defects or bugs. Defects in the solutions or products that we develop and sell to our customers
+could require expensive corrections and result in delayed or lost revenue and bookings, adverse customer reaction and negative publicity about us or our
+products and services. Customers who are not satisfied with any of our products may also bring claims against us for damages, which, even if unsuccessful,
+would likely be time-consuming to defend, and could result in costly litigation and payment of damages. Such claims could harm our reputation, financial
+results and competitive position.
+Risks Related to our Indebtedness, Investments and Common Stock
+Our debt agreements contain covenant restrictions that may limit our ability to operate our business.
+Our debt agreements contain, and any of our other future debt agreements or arrangements may contain, covenant restrictions that limit our ability to
+operate our business, including restrictions on our ability to:
+•incur additional debt or issue guarantees;
+•create liens;
+•make certain investments;
+•enter into transactions with our affiliates;
+•sell certain assets;
+•repurchase capital stock or make other restricted payments;
+•declare or pay dividends or make other distributions to stockholders; and
+•merge or consolidate with any entity.
+Our ability to comply with these limitations is dependent on our future performance, which will be subject to many factors, some of which are beyond our
+control, including prevailing economic conditions. As a result of these limitations, our ability to respond
+15","The risks and uncertainties that could cause actual results to differ from those in the forward-looking statements include, but are not limited to, the following:"
+13,"Table of Contents
+Corporate assets and liabilities are allocated to each reporting unit based on the reporting unit’s revenue, total operating expenses or operating income as a
+percentage of the consolidated amounts. Corporate debt and other financial liabilities that are not directly attributable to the reporting unit's operations and
+would not be transferred to hypothetical purchasers of the reporting units are excluded from a reporting unit's carrying amount.
+The fair value of a reporting unit is generally determined using a combination of the income approach and the market approach. For the income approach,
+fair value is determined based on the present value of estimated future after-tax cash flows, discounted at an appropriate risk-adjusted rate. We use our
+internal forecasts to estimate future after-tax cash flows and estimate the long-term growth rates based on our most recent views of the long-term outlook
+for each reporting unit. Actual results may differ from those assumed in our forecasts. We derive our discount rates using a capital asset pricing model and
+analyzing published rates for industries relevant to our reporting units to estimate the weighted average cost of capital. We adjust the discount rates for the
+risks and uncertainty inherent in the respective businesses and in our internally developed forecasts. For the market approach, we use a valuation technique
+in which values are derived based on valuation multiples of comparable publicly traded companies. We assess each valuation methodology based upon the
+relevance and availability of the data at the time we perform the valuation and weight the methodologies appropriately.
+Intangible Assets and long-lived Asset groups
+Long-lived assets with definite lives are tested for impairment whenever events or changes in circumstances indicate the carrying value of a specific asset
+or asset group may not be recoverable. We assess the recoverability of long-lived assets with definite lives at the asset group level. Asset groups are
+determined based upon the lowest level for which identifiable cash flows are largely independent of the cash flows of other assets and liabilities. When the
+asset group is also a reporting unit, goodwill assigned to the reporting unit is also included in the carrying amount of the asset group. For the purpose of the
+recoverability test, we compare the total undiscounted future cash flows from the use and disposition of the assets with its net carrying amount. When the
+carrying value of the asset group exceeds the undiscounted future cash flows, the asset group is deemed to be impaired. The amount of the impairment loss
+represents the excess of the asset or asset group’s carrying value over its estimated fair value, which is generally determined based upon the present value
+of estimated future pre-tax cash flows that a market participant would expect from use and disposition of the long-lived asset or asset group. See Note 6 for
+the impairment charges recorded in fiscal year 2018.
+Income Taxes
+Deferred Taxes
+Deferred tax assets and liabilities are recognized for the estimated future tax consequences attributable to differences between the financial statement
+carrying amounts of assets and liabilities and their respective tax bases. This method also requires the recognition of future tax benefits such as net
+operating loss carryforwards, to the extent that realization of such benefits is more likely than not after consideration of all available evidence. As the
+income tax returns are not due and filed until after the completion of our annual financial reporting requirements, the amounts recorded for the current
+period reflect estimates for the tax-based activity for the period. In addition, estimates are often required with respect to, among other things, the
+appropriate state and foreign income tax rates to use, the potential utilization of operating loss carry-forwards and valuation allowances required, if any, for
+tax assets that may not be realizable in the future. Tax laws and tax rates vary substantially in these jurisdictions, and are subject to change given the
+political and economic climate. We report and pay income tax based on operational results and applicable law. Our tax provision contemplates tax rates
+currently in effect to determine both our current and deferred tax provisions.
+Any significant fluctuation in rates or changes in tax laws could cause our estimates of taxes we anticipate either paying or recovering in the future to
+change. Such changes could lead to either increases or decreases in our effective tax rate.
+We have historically estimated the future tax consequence of certain items, including bad debts, inventory valuation, and accruals that cannot be deducted
+for income tax purposes until such expenses are paid or the related assets are disposed. We believe the procedures and estimates used in our accounting for
+income taxes are reasonable and in accordance with established tax law. The income tax estimates used have not resulted in material adjustments to income
+tax expense in subsequent periods when the estimates are adjusted to the actual filed tax return amounts.
+Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the fiscal years in which those temporary
+differences are expected to be recovered or settled. With respect to earnings expected to be indefinitely reinvested offshore, we do not accrue tax for the
+repatriation of such foreign earnings.
+Valuation Allowance
+We regularly review our deferred tax assets for recoverability considering historical profitability, projected future taxable income, the expected timing of
+the reversals of existing temporary differences and tax planning strategies. In assessing the need for a
+41","The fair value of a reporting unit is determined using a combination of the income approach and the market approach. The amount of the impairment loss represents the excess of the asset or asset group’s carrying value over its estimated fair value, which is generally determined based upon the present value of estimated future pre-tax cash"
+14,"Table of Contents
+valuation allowance, we consider both positive and negative evidence related to the likelihood of realization of the deferred tax assets. The weight given to
+the positive and negative evidence is commensurate with the extent to which the evidence may be objectively verified. If positive evidence regarding
+projected future taxable income, exclusive of reversing taxable temporary differences, existed it would be difficult for it to outweigh objective negative
+evidence of recent financial reporting losses. Generally, cumulative loss in recent years is a significant piece of negative evidence that is difficult to
+overcome in determining that a valuation allowance is not needed.
+As of September 30, 2020, we have $230.3 million of valuation allowances recorded against all U.S. deferred tax assets and certain foreign deferred tax
+assets. If we are subsequently able to utilize all or a portion of the deferred tax assets for which the remaining valuation allowance has been established,
+then we may be required to recognize these deferred tax assets through the reduction of the valuation allowance which could result in a material benefit to
+our results of operations in the period in which the benefit is determined.
+Uncertain Tax Positions
+We operate in multiple jurisdictions through wholly-owned subsidiaries and our global structure is complex. The estimates of our uncertain tax positions
+involve judgments and assessment of the potential tax implications related to legal entity restructuring, credits, intercompany transfer and acquisition or
+divestiture. We recognize tax benefits from uncertain tax positions only if it is more likely than not that the tax position will be sustained on examination by
+the taxing authorities, based on the technical merits of the position.
+Our tax positions are subject to audit by taxing authorities across multiple global jurisdictions and the resolution of such audits may span multiple years.
+Tax law is complex and often subject to varied interpretations, accordingly, the ultimate outcome with respect to taxes we may owe may differ from the
+amounts recognized.
+RECENTLY ADOPTED ACCOUNTING STANDARDS
+See Note 2 to the accompanying consolidated financial statements for a description of recently adopted accounting standards.
+ISSUED ACCOUNTING STANDARDS NOT YET ADOPTED
+See Note 2 to the accompanying consolidated financial statements for a description of certain issued accounting standards that have not been adopted and
+may impact our financial statements in future reporting periods.
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+We are exposed to market risk from changes in foreign currency exchange rates, interest rates and equity prices which could affect operating results,
+financial position and cash flows. We manage our exposure to these market risks through our regular operating and financing activities and, when
+appropriate, through the use of derivative financial instruments.
+Exchange Rate Sensitivity
+We are exposed to changes in foreign currency exchange rates. Any foreign currency transaction, defined as a transaction denominated in a currency other
+than the local functional currency, will be reported in the functional currency at the applicable exchange rate in effect at the time of the transaction. A
+change in the value of the functional currency compared to the foreign currency of the transaction will have either a positive or negative impact on our
+financial position and results of operations.
+Assets and liabilities of our foreign entities are translated into U.S. dollars at exchange rates in effect at the balance sheet date and income and expense
+items are translated at average rates for the applicable period. Therefore, the change in the value of the U.S. dollar compared to foreign currencies will have
+either a positive or negative effect on our financial position and results of operations. Historically, our primary exposure has related to transactions
+denominated in the euro, British pound, Canadian dollar, and Indian rupee.
+Periodically, we enter into forward exchange contracts to hedge against foreign exchange rate fluctuations. As of September 30, 2020, we had not
+designated any contracts as fair value or cash flow hedges. The contracts generally have a maturity of less than 90 days. As of September 30, 2020, the
+notional contract amount of outstanding foreign currency exchange contracts was $40.7 million.
+Interest Rate Sensitivity
+We are exposed to interest rate risk as a result of our cash and cash equivalents and marketable securities.
+42",Table of Contents deferred tax assets and foreign deferred tax assets
+15,"REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+Stockholders and Board of Directors
+Nuance Communications, Inc.
+Burlington, Massachusetts
+Opinion on the Consolidated Financial Statements
+We have audited the accompanying consolidated balance sheets of Nuance Communications, Inc. (the “Company”) as of September 30, 2020 and 2019, the
+related consolidated statements of operations, comprehensive income (loss), stockholders’ equity, and cash flows for each of the three years in the period
+ended September 30, 2020, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated
+financial statements present fairly, in all material respects, the financial position of the Company at September 30, 2020 and 2019, and the results of its
+operations and its cash flows for each of the three years in the period ended September 30, 2020, in conformity with accounting principles generally
+accepted in the United States of America.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (“PCAOB”), the Company's
+internal control over financial reporting as of September 30, 2020, based on criteria established in Internal Control - Integrated Framework (2013) issued
+by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”) and our report dated November 19, 2020 expressed an unqualified
+opinion thereon.
+Change in Accounting Principle
+As discussed in Note 2 to the consolidated financial statements, the Company has changed its method of accounting for leases in fiscal 2020 due to the
+adoption of Accounting Standards Update 2016-02, ""Leases"" (""ASC 842"").
+Basis for Opinion
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s
+consolidated financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with
+respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange
+Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud.
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and
+disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by
+management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis
+for our opinion.
+Critical Audit Matters
+The critical audit matters communicated below are matters arising from the current period audit of the consolidated financial statements that were
+communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the consolidated
+financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not
+alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below,
+providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+Determination of Distinct Performance Obligations in Customer Revenue Contracts
+As described in Note 3 to the consolidated financial statements, the Company recorded total revenues of $1.48 billion for the year ended September 30,
+2020. The Company derives revenue from the following sources: (i) hosting services, (ii) software licenses, including royalties, (iii) M&S, (iv) professional
+services, and (v) sale of hardware. The Company enters into contracts with its customers, which frequently contain multiple performance obligations. The
+Company accounts for individual products and services separately if they are distinct, that is, if a product or service is separately identifiable from other
+items in the contract and if a
+45","We are the independent auditors of Nuance Communications, Inc."
+16,"REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+Stockholders and Board of Directors
+Nuance Communications, Inc.
+Burlington, Massachusetts
+Opinion on Internal Control over Financial Reporting
+We have audited Nuance Communications, Inc.’s (the “Company’s”) internal control over financial reporting as of September 30, 2020, based on criteria
+established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (the
+“COSO criteria”). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of September 30,
+2020 based on the COSO criteria.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (“PCAOB”), the consolidated
+balance sheets of the Company as of September 30, 2020 and 2019, the related consolidated statements of operations, comprehensive income (loss),
+stockholders’ equity, and cash flows for each of the three years in the period ended September 30, 2020, and the related notes and our report dated
+November 19, 2020 expressed an unqualified opinion thereon.
+Basis for Opinion
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of
+internal control over financial reporting, included in the accompanying Item 9A, Management’s Report on Internal Control over Financial Reporting. Our
+responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm
+registered with the PCAOB and are required to be independent with respect to the Company in accordance with U.S. federal securities laws and the
+applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audit of internal control over financial reporting in accordance with the standards of the PCAOB. Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material
+respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and
+testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit also included performing such other
+procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+Definition and Limitations of Internal Control over Financial Reporting
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control
+over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly
+reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit
+preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are
+being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding
+prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial
+statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of
+effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of
+compliance with the policies or procedures may deteriorate.
+ /s/ BDO USA, LLP
+ BDO USA, LLP
+BDO USA, LLP
+Boston, MA
+November 19, 2020
+47","On November 19, 2020, the Public Company Accounting Oversight Board (PCAOB) issued an opinion on our audit of Nuance Communications, Inc."
+17,"Table of Contents
+NUANCE COMMUNICATIONS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+the assets acquired and liabilities assumed is recorded against goodwill in the period in which the amount is determined. Any adjustment identified
+subsequent to the measurement period is included in operating results in the period in which the amount is determined.
+Goodwill
+Goodwill represents the excess of the purchase price in a business combination over the fair value of net tangible and intangible assets acquired. Goodwill
+and intangible assets with indefinite lives are not amortized, but rather the carrying amounts of these assets are assessed for impairment at least annually or
+whenever events or changes in circumstances indicate that the carrying value of these assets may not be recoverable. Goodwill is tested for impairment
+annually on July 1, the first day of the fourth quarter of the fiscal year. Goodwill impairment, if any, is determined by comparing the reporting unit's fair
+value to its carrying value. An impairment loss is recognized in an amount equal to the excess of the reporting unit's carrying value over its fair value, up to
+the amount of goodwill allocated to the reporting unit. There was no goodwill impairment for fiscal year 2020. See Note 6 for the impairment charges
+recorded in fiscal year 2018.
+For the purpose of testing goodwill for impairment, all goodwill acquired in a business combination is assigned to one or more reporting units. A reporting
+unit represents an operating segment or a component within an operating segment for which discrete financial information is available and is regularly
+reviewed by segment management for performance assessment and resource allocation. Components of similar economic characteristics are aggregated
+into one reporting unit for the purpose of goodwill impairment assessment. Reporting units are identified annually and re-assessed periodically for recent
+acquisitions or any changes in segment reporting structure.
+Corporate assets and liabilities are allocated to each reporting unit based on the reporting unit’ revenue, total operating expenses or operating income as a
+percentage of the consolidated amounts. Corporate debt and other financial liabilities that are not directly attributable to the reporting unit's operations and
+would not be transferred to hypothetical purchasers of the reporting units are excluded from a reporting unit's carrying amount.
+The fair value of a reporting unit is generally determined using a combination of the income approach and the market approach, where the income approach
+is weighted 50% and the market approach 50%. For the income approach, fair value is determined based on the present value of estimated future after-tax
+cash flows, discounted at an appropriate risk-adjusted rate. We use our internal forecasts to estimate future after-tax cash flows and estimate the long-term
+growth rates based on our most recent views of the long-term outlook for each reporting unit. Actual results may differ from those assumed in our
+forecasts. We derive our discount rates using a capital asset pricing model and analyzing published rates for industries relevant to our reporting units to
+estimate the weighted average cost of capital. We adjust the discount rates for the risks and uncertainty inherent in the respective businesses and in our
+internally developed forecasts. For the market approach, we use a valuation technique in which values are derived based on valuation multiples of
+comparable publicly traded companies. We assess each valuation methodology based upon the relevance and availability of the data at the time we perform
+the valuation and weight the methodologies appropriately.
+Long-Lived Assets with Definite Lives
+Our long-lived assets consist principally of technology, customer relationships, internally developed software, land, and building and equipment. Customer
+relationships are amortized over their estimated economic lives based on the pattern of economic benefits expected to be generated from the use of the
+asset. Other definite-lived assets are amortized over their estimated economic lives using the straight-line method. The remaining useful lives of long-lived
+assets are re-assessed periodically for any events and circumstances that may change the future cash flows expected to be generated from the long-lived
+asset or asset group.
+Internally developed software consists of capitalized costs incurred during the application development stage, which include costs related design of the
+software configuration and interfaces, coding, installation and testing. Costs incurred during the preliminary project stage and post-implementation stage
+are expensed as incurred. Internally developed software is amortized over the estimated useful life, commencing on the date when the asset is ready for its
+intended use. Land, building and equipment are stated at cost and depreciated over their estimated useful lives. Leasehold improvements are depreciated
+over the shorter of the related lease term or the estimated useful life. Depreciation is computed using the straight-line method. Repair and maintenance
+costs are expensed as incurred. The cost and related accumulated depreciation of sold or retired assets are removed from the accounts and any gain or loss
+is included in the results of operations for the period.
+Long-lived assets with definite lives are tested for impairment whenever events or changes in circumstances indicate the carrying value of a specific asset
+or asset group may not be recoverable. We assess the recoverability of long-lived assets with definite lives at the asset group level. Asset groups are
+determined based upon the lowest level for which identifiable cash flows are largely
+55",Goodwill and intangible assets acquired in business combinations are classified as net tangible and intangible assets.
+18,"Table of Contents
+NUANCE COMMUNICATIONS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Accumulated Other Comprehensive Loss
+The components of accumulated other comprehensive loss, reflected in the consolidated statements of stockholders’ equity, consisted of the following
+(dollars in thousands):
+ September 30, 2020 September 30, 2019
+Foreign currency translation adjustment $ (110,110) $ (124,608)
+Net unrealized losses on post-retirement benefits (7,873) (8,296)
+Unrealized gain (loss) on marketable securities 65 131
+Accumulated other comprehensive loss $ (117,918) $ (132,773)
+No income tax provisions or benefits are recorded for foreign currency translation adjustment as the undistributed earnings in our foreign subsidiaries are
+expected to be indefinitely reinvested.
+Concentration of Risk
+Financial instruments that are potentially subject to significant concentrations of credit risk principally consist of cash, cash equivalents, marketable
+securities and trade accounts receivable. We place our cash and cash equivalents and marketable securities with financial institutions with high credit
+ratings. As part of our cash and investment management processes, we perform periodic evaluations of the credit standing of the financial institutions with
+whom we maintain deposits, and have not recorded any credit losses to-date. For trade accounts receivable, we perform ongoing credit evaluations of our
+customers’ financial condition and limit the amount of credit extended when deemed appropriate. No customer accounted for more than 10% of our net
+accounts receivable balance at September 30, 2020 and 2019 or 10% of our revenue for fiscal years 2020, 2019 or 2018.
+Foreign Currency Translation
+The functional currency of a foreign subsidiary is generally the local currency. We translate the financial statements of foreign subsidiaries to U.S. dollars
+using month-end exchange rates for assets and liabilities, and average rates for the reporting period for revenues, costs, and expenses. We record translation
+gains and losses in accumulated other comprehensive loss as a component of stockholders’ equity. We record net foreign exchange transaction gains and
+losses resulting from the conversion of the transaction currency to the functional currency within in other expense, net. Foreign currency transaction gains
+(losses)for fiscal years 2020, 2019 and 2018 were $1.3 million, $1.1 million and $(1.2) million, respectively.
+Financial Instruments and Hedging Activities
+We use forward currency exchange contracts to manage our exposure to fluctuations in foreign currency for certain transactions. In order for instruments to
+be designated as hedges, specific criteria must be met, including (i) formal documentation must exist for both the hedging relationship and our risk
+management objectives and strategies for undertaking the hedging activities, (ii) at the inception and on an ongoing basis, the hedging relationship is
+expected to be highly effective in offsetting changes in fair value attributed to the hedged risk during the period that the hedge is designated, and (iii) an
+assessment of effectiveness is required whenever financial statements or earnings are reported.
+The effective portion of changes in the fair values of contracts designated as cash flow hedges is recorded in equity as a component of accumulated other
+comprehensive loss until the hedged item effects earnings. Once the underlying forecasted transaction is realized, the changes of fair vales of instruments
+designated as hedges reclassified from accumulated other comprehensive loss to the statement of operations, in the appropriate income statement line items.
+Any ineffective portion of the instruments designated as cash flow hedges is recognized in current earnings. We report cash flows arising from derivative
+financial instruments designated as fair value or cash flow hedges consistent with the classification of the cash flows from the underlying hedged items that
+these derivatives are hedging.
+No forward exchange contracts are designated as hedges for fiscal years 2020, 2019, or 2018. Changes in the fair values of the forward currency exchange
+contracts are recorded within other expense, net. Cash flows related to investments and settlements of forward currency exchange contracts are included
+within cash flows from investing activities.
+Stock-Based Compensation
+Stock-based compensation primarily consists of restricted stock units with service, and market or performance conditions. Equity awards are measured at
+the fair market value of the underlying stock at the grant date. We recognize stock compensation expense
+58",Financial Statements and Management’s Discussion and Analysis of Financial Condition and Results of Operations
+19,"Table of Contents
+NUANCE COMMUNICATIONS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Revolving Credit Facility
+Our revolving credit agreement (the “Revolving Credit Agreement”) expires on April 15, 2022. On July 31, 2020, we amended the Revolving Credit
+Agreement to, among other things, extend the expiration from April 15, 2021 to April 15, 2022, and allow the administration agent and Nuance to agree on
+a new benchmark rate in lieu of LIBOR. The Revolving Credit Agreement provides for aggregate borrowing commitments of $242.5 million (the
+""Revolving Credit Facility""), including the revolving facility loans, the swingline loans and issuance of letters of credit. The borrowing outstanding under
+the Revolving Credit Facility bears interest at either (i) LIBOR plus an applicable margin of 1.50% or 1.75%, or (ii) the alternative base rate plus an
+applicable margin of 0.50% or 0.75%. The Revolving Credit Facility is secured by substantially all our assets. The Revolving Credit Agreement contains
+customary affirmative and negative covenants and conditions to borrowing, as well as customary events of default. At any time that there are any
+outstanding borrowings (excluding up to $25,000,000 of issued and undrawn Letters of Credit) under the Revolving Credit Facility, we are required to
+maintain a Consolidated Senior Secured Leverage Ratio (as defined in the Revolving Credit Agreement) not exceeding 4.00 to 1.00. We were in
+compliance with all the debt covenants as of September 30, 2020.
+On March 24, 2020, we borrowed $230.0 million under our revolving credit facility at an effective interest rate of 2.68% per annum, which was fully repaid
+on June 26, 2020. As of September 30, 2020, after taking into account the outstanding letters of credit of $2.4 million, we had $240.1 million available for
+borrowing under the Revolving Credit Facility.
+11. Financial Instruments and Hedging Activities
+Derivatives not Designated as Hedges
+Forward Currency Contracts
+We have operations in a number of international locations, including certain developing markets where currency exchange rates can be volatile. We utilize
+foreign currency forward contracts to mitigate the risks associated with changes in foreign currency exchange rates so that our exposure to foreign
+currencies will be mitigated or offset by the gains or losses on the foreign currency forward contracts. Generally, we enter into such contracts for less than
+90 days and have no cash requirements until maturity. As of September 30, 2020 and 2019, we had outstanding contracts with a total notional value of
+$40.7 million and $189.6 million, respectively.
+We did not designate any forward contracts as hedging instruments for fiscal years 2020, 2019 and 2018. Therefore, changes in fair value of foreign
+currency forward contracts were recognized within other expense, net in our consolidated statements of operations. The cash flows related to the settlement
+of forward contracts not designated as hedging instruments are included in cash flows from investing activities within our consolidated statement of cash
+flows.
+A summary of our derivative instruments is as follows (dollars in thousands):
+    Fair Value
+Derivatives Not Designated as Hedges:  Balance Sheet Classification  September 30, 2020 September 30, 2019
+Foreign currency forward contracts  Prepaid expenses and other current assets  $ 109 $ 597
+Foreign currency forward contracts  Accrued expenses and other current liabilities  $ (92) $ (327)
+A summary of income (loss) related to foreign currency forward contracts for the year ended September 30, 2020 is as follows (dollars in thousands):","The registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorised."
+20,"Table of Contents
+NUANCE COMMUNICATIONS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+12. Fair Value Measures
+Fair value is defined as the price that would be received to sell an asset, or paid to transfer a liability, in an orderly transaction between market participants
+at the measurement date. Valuation techniques must maximize the use of observable inputs and minimize the use of unobservable inputs. When
+determining the fair value measurements for assets and liabilities required to be recorded at fair value, we consider the principal or most advantageous
+market in which we would transact and consider assumptions that market participants would use when pricing the asset or liability, such as inherent risk,
+transfer restrictions, and risk of nonperformance.
+The determination of the applicable level within the hierarchy of a particular financial asset or liability depends on the lowest level of inputs that are
+significant to the fair value measurement as of the measurement date as follows:
+•Level 1: Quoted prices for identical assets or liabilities in active markets.
+•Level 2: Observable inputs other than those described as Level 1.
+•Level 3: Unobservable inputs that are supportable by little or no market activities and are based on significant assumptions and estimates.
+Assets and liabilities measured at fair value on a recurring basis at September 30, 2020 and 2019 consisted of (dollars in thousands):
+ September 30, 2020
+ Level 1  Level 2  Level 3  Total
+Assets:        
+Money market funds (a)$ 182,645 $ — $ — $ 182,645
+Time deposits(b)— 95,180 — 95,180
+Commercial paper, $33,265 at cost(b)— 33,290 — 33,290
+Corporate notes and bonds, $15,460 at cost(b)— 15,480 — 15,480
+Foreign currency exchange contracts(b)— 109 — 109
+Total assets at fair value $ 182,645 $ 144,059 $ — $ 326,704
+Liabilities:        
+Foreign currency exchange contracts(b)$ — $ (92) $ — $ (92)
+Contingent acquisition payments(c)— — (1,796) (1,796)
+Total liabilities at fair value $ — $ (92) $ (1,796) $ (1,888)
+ September 30, 2019
+ Level 1  Level 2  Level 3  Total
+Assets:        
+Money market funds(a)$ 217,861 $ — $ — $ 217,861
+Time deposits(b)— 115,913 — 115,913
+Commercial paper, $77,089 at cost(b)— 77,494 — 77,494
+Corporate notes and bonds, $37,504 at cost(b)— 37,566 — 37,566
+Foreign currency exchange contracts(b)— 597 — 597
+Total assets at fair value $ 217,861 $ 231,570 $ — $ 449,431
+Liabilities:        
+Foreign currency exchange contracts(b)$ — $ (327) $ — $ (327)
+Contingent acquisition payments(c)— — (2,550) (2,550)
+Total liabilities at fair value $ — $ (327) $ (2,550) $ (2,877)
+(a) Money market funds and time deposits with original maturity of 90 days or less are included within cash and cash equivalents in the consolidated balance sheets and
+are valued at quoted market prices in active markets.
+(b) Time deposits , commercial  paper , corporate notes and bonds, and foreign currency exchange contracts are recorded at fair market values, which are determined based on
+the most recent observable  inputs for similar instruments in active markets or quoted prices for identical  or similar instruments in markets that are not active or are
+directly or indirectly observable. T ime deposits are generally for terms of one year
+76","The following table sets out the fair value measurements for assets and liabilities required to be recorded at fair value on a recurring basis at September 30, 2020 and 2019."
+21,"(a) 296,759  shares of performance-based awards were modified to time-based awards with only service conditions in December 2018.
+(b) Effective with the Distribution on October 1, 2019, outstanding equity awards were equitably adjusted by a conversion ratio of 1.16667  per one Nuance share then held.
+(c) The aggregate  intrinsic value represents any excess of the closing price of our common stock as of September 30, 2020  ($33.19 ) over the exercise price of the underlying
+restricted units.
+A summary of the weighted-average grant-date fair value of RSUs and PSUs granted, and the aggregate intrinsic value of Restricted Units vested for each
+fiscal year is as follows:
+ Year ended September 30,
+ 2020  2019  2018
+Weighted-average grant-date fair value per share $ 19.51 $ 16.52 $ 15.47
+Total intrinsic value of shares vested (in millions) $ 164.1 $ 125.2 $ 146.5
+PSUs outstanding as of September 30, 2020 and issued in fiscal year 2019 include performance goals based on total shareholder return relative to our peers
+during the performance period. The awards actually earned will be up to two hundred percent of the targeted number of the PSUs. Compensation expense is
+recorded ratably over the performance period of the award based on the estimated grant date fair value estimated at the grant date using a Monte Carlo
+simulation model, which included the following assumptions:
+ Year ended September 30,
+ 2020  2019
+Dividend yield 0.0% 0.0%
+Expected volatility 27.73% - 28.24%  27.32% - 30.85%
+Risk-free interest rate 1.40% - 1.62%  2.23% - 3.02%
+Expected term (in years) 2.72 - 3 1 - 3
+1995 Employee Stock Purchase Plan
+The ESPP, as amended and restated on January 27, 2015, authorizes the issuance of a maximum of 20,000,000 shares of common stock in semi-annual
+offerings to employees at a price equal to the lower of 85% of the closing price on the applicable offering
+83","Nuance Communications, Inc."
+22,"Table of Contents
+NUANCE COMMUNICATIONS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+commencement date or 85% of the closing price on the applicable offering termination date. Stock-based compensation expense for the employee stock
+purchase plan is recognized for the fair value benefit accorded to participating employees. At September 30, 2020, we have reserved 3.6 million shares for
+future issuance. A summary of the weighted-average grant-date fair value, shares issued, and total stock-based compensation expense recognized related to
+the ESPP are as follows:
+ Year ended September 30,
+ 2020  2019  2018
+Weighted-average grant-date fair value per share $ 6.90 $ 3.76 $ 4.00
+Total shares issued (in millions) 1.0 1.2 1.3
+Total stock-based compensation expense (in millions) $ 4.2 $ 4.5 $ 5.2
+The fair value of the purchase rights granted under the ESPP was estimated on the date of grant using the Black-Scholes option-pricing model that uses the
+following weighted-average assumptions, which were derived in a manner similar to those discussed above relative to stock options:
+ Year ended September 30,
+ 2020  2019  2018
+Dividend yield 0.0% 0.0% 0.0%
+Expected volatility 39.8% 27.8% 32.1%
+Risk-free interest rate 0.9% 2.2% 2.0%
+Expected term (in years) 0.5 0.5 0.5
+18. Commitments and Contingencies
+Litigation and Other Claims
+Similar to many companies in the software industry, we are involved in a variety of claims, demands, suits, investigations and proceedings that arise from
+time to time relating to matters incidental to the ordinary course of our business, including actions with respect to contracts, intellectual property,
+employment, benefits and securities matters. At each balance sheet date, we evaluate contingent liabilities associated with these matters in accordance with
+ASC 450 ""Contingencies"". If the potential loss from any claim or legal proceeding is considered probable and the amount can be reasonably estimated, we
+accrue a liability for the estimated loss. Significant judgments are required for the determination of probability and the range of the outcomes, and the
+estimates are based only on the information available at the time. Due to the inherent uncertainties involved in claims, legal proceedings, and in estimating
+the losses that may arise, actual outcomes may differ from our estimates. Contingencies deemed not probable or for which losses were not estimable in one
+period may become probable, or losses may become estimable in later periods which may have a material impact on our results of operations and financial
+position. As additional information becomes available, we reassess the potential liability related to our pending claims and litigation and may revise our
+estimates. As of September 30, 2020 and 2019, accrued losses were not material to our consolidated financial statements, and we do not expect any
+pending matter to have a material impact on our consolidated financial statements.
+Guarantees and Other
+We include indemnification provisions in the contracts we enter into with customers and business partners. Generally, these provisions require us to defend
+claims arising out of our products’ infringement of third-party intellectual property rights, breach of contractual obligations and/or unlawful or otherwise
+culpable conduct. The indemnity obligations generally cover damages, costs and attorneys’ fees arising out of such claims. In most, but not all cases, our
+total liability under such provisions is limited to either the value of the contract or a specified, agreed upon amount. In some cases, our total liability under
+such provisions is unlimited. In many, but not all cases, the term of the indemnity provision is perpetual. While the maximum potential amount of future
+payments we could be required to make under all the indemnification provisions is unlimited, we believe the estimated fair value of these provisions is
+minimal due to the low frequency with which these provisions have been triggered.
+We indemnify our directors and officers to the fullest extent permitted by Delaware law, which provides among other things, indemnification to directors
+and officers for expenses, judgments, fines, penalties and settlement amounts incurred by such persons in their capacity as a director or officer of the
+company, regardless of whether the individual is serving in any such capacity at the time the liability or expense is incurred. Additionally, in connection
+with certain acquisitions, we agreed to indemnify the former
+84","For the three months ended September 30, 2019, we issued 1.0 million shares of our common stock under our employee stock purchase plan (ESPP)."
+23,"Table of Contents
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of
+effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions and that the degree of
+compliance with the policies or procedures may deteriorate.
+Management has assessed the effectiveness of our internal control over financial reporting as of September 30, 2020, utilizing the criteria set forth by the
+Committee of Sponsoring Organizations of the Treadway Commission (“COSO”) in the 2013 Internal Control-Integrated Framework. Based on the results
+of this assessment, management (including our Chief Executive Officer and our Chief Financial Officer) has concluded that, as of September 30, 2020, our
+internal control over financial reporting was effective.
+The attestation report concerning the effectiveness of our internal control over financial reporting as of September 30, 2020 issued by BDO USA, LLP, an
+independent registered public accounting firm, appears in Item 8 of this Annual Report on Form 10-K.
+Changes in Internal Controls Over Financial Reporting
+There have been no material changes in our internal controls over financial reporting during the fourth quarter of fiscal 2020 that have materially affected,
+or are reasonably likely to materially affect, our internal controls over financial reporting.
+Item 9B.Other Information
+None
+PART III
+Certain information required by Part III is omitted from this Annual Report on Form 10-K since we intend to file our definitive Proxy Statement for our
+next Annual Meeting of Stockholders, pursuant to Regulation 14A of the Securities Exchange Act of 1934, as amended (the “Proxy Statement”), within
+120 days of the end of the fiscal year covered by this report, and certain information to be included in the Proxy Statement is incorporated herein by
+reference.
+Item 10.Directors, Executive Officers and Corporate Governance
+The information required by this item concerning our directors is incorporated by reference to the information set forth in the section titled “Election of
+Directors” in our Proxy Statement. Information required by this item concerning our executive officers is incorporated by reference to the information set
+forth in the section entitled “Executive Compensation, Management and Other Information” in our Proxy Statement. Information regarding Section 16
+reporting compliance is incorporated by reference to the information set forth in the section entitled “Section 16(a) Beneficial Ownership Reporting
+Compliance” in our Proxy Statement.
+Our Board of Directors adopted a Code of Business Conduct and Ethics for all of our directors, officers and employees effective on November 25, 2019.
+Our Code of Business Conduct and Ethics, as well as any amendments thereto, can be found at our website: www.nuance.com. We will provide to any
+person without charge, upon request, a copy of our Code of Business Conduct and Ethics. Such a request should be made in writing and addressed to
+Investor Relations, Nuance Communications, Inc., 1 Wayside Road, Burlington, MA 01803.
+To date, there have been no waivers under our Code of Business Conduct and Ethics. We will post any waivers, if and when granted, of our Code of
+Business Conduct and Ethics on our website at www.nuance.com.
+Item 11.Executive Compensation
+The information required by this item regarding executive compensation is incorporated by reference to the information set forth in the section titled
+“Executive Compensation, Management and Other Information” in our Proxy Statement.
+Item 12.Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+The information required by this item regarding security ownership of certain beneficial owners and management is incorporated by reference to the
+information set forth in the sections titled “Security Ownership of Certain Beneficial Owners and Management” and “Equity Compensation Plan
+Information” in our Proxy Statement.
+94",The registrant has duly caused this Annual Report to be signed on its behalf by theRegistrant
