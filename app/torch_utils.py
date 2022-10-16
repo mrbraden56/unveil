@@ -58,7 +58,7 @@ class SummarizeParagraph:
             pageObj = pdfReader.getPage(i)
             pdf_page=pageObj.extractText()
             paragraphs = BlanklineTokenizer().tokenize(pdf_page)
-            for i, paragraph in enumerate(paragraphs):
+            for paragraph in paragraphs:
                 result=self.classify_paragraph(self.model_trained, self.tokenizer_trained, paragraph)
                 if result:
                     summary=self.summarize(paragraph)
@@ -66,5 +66,6 @@ class SummarizeParagraph:
                     risk_dic["Summarized"].append(summary)
                 else:
                     continue
+            print(f"Page {i} of {number_of_pages}")
         risk_dic = pd.DataFrame.from_dict(risk_dic)
         return risk_dic
