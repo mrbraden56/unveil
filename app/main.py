@@ -36,8 +36,6 @@ def home_page():
             pdf = request.files["pdf"]
             pdf.save(os.path.join(app.config['UPLOAD_FOLDER'], pdf.filename))
             csv_name=pdf.filename.replace('pdf', 'csv')
-            print(pdf.filename)
-            print(csv_name)
             summarize=SummarizeParagraph(pdf_name=pdf.filename, 
                                          upload_folder=app.config['UPLOAD_FOLDER'], 
                                          model=model, 

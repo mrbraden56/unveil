@@ -1,5 +1,6 @@
 database/
 annual_reports/
+model/
 *.pt
 *.bin
 *.json

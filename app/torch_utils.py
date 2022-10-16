@@ -60,16 +60,11 @@ class SummarizeParagraph:
             paragraphs = BlanklineTokenizer().tokenize(pdf_page)
             for i, paragraph in enumerate(paragraphs):
                 result=self.classify_paragraph(self.model_trained, self.tokenizer_trained, paragraph)
-                print(i)
                 if result:
                     summary=self.summarize(paragraph)
                     risk_dic["Original"].append(paragraph)
                     risk_dic["Summarized"].append(summary)
-                    print(f"Original:\n{paragraph}\nSummary:\n{summary}")
                 else:
                     continue
-            if i==5:
-                break
-            print(f"Page: {i}")
         risk_dic = pd.DataFrame.from_dict(risk_dic)
         return risk_dic
